@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "769839425481",
+    "firebase_url": "https://intercambiagram-d6bf1.firebaseio.com",
+    "project_id": "intercambiagram-d6bf1",
+    "storage_bucket": "intercambiagram-d6bf1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:769839425481:android:b356195dbad8ccdb",
+        "android_client_info": {
+          "package_name": "kt.evaprojects.cum.unex.es.intercambiagram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "769839425481-tveq2gk33tp2oe2gpci2pcjph3s83uvs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "kt.evaprojects.cum.unex.es.intercambiagram",
+            "certificate_hash": "42e83aa87f280a73cea943c4978de188b0e915b6"
+          }
+        },
+        {
+          "client_id": "769839425481-3jousuppsb4f9u8n4r7f6vnr03e33p64.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhOTzBDVtl8o4ZfdVxbUPPA7DfNdutJm4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "769839425481-3jousuppsb4f9u8n4r7f6vnr03e33p64.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
